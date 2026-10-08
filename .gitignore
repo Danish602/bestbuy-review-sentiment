@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+debug/*.html
+debug/*.png
+.DS_Store
